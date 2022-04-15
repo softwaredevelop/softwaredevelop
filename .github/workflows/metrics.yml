@@ -39,4 +39,5 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_languages: yes
+          plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage, line
