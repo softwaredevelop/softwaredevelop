@@ -1,1 +1,1 @@
-<img src="/base.svg" alt="Base" width="100%">
+<img align="center" src="/base.svg" alt="Base" width="400">
