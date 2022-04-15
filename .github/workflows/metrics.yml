@@ -11,19 +11,19 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          filename: header.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
           base: header
-          filename: header.svg
 
       - name: Lines
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          filename: lines.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
           base: repositories
-          filename: lines.svg
           plugin_lines: yes
