@@ -25,4 +25,5 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
           base: repositories
+          filename: lines.svg
           plugin_lines: yes
