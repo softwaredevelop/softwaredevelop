@@ -14,6 +14,6 @@ jobs:
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           filename: base.svg
           template: classic
