@@ -28,15 +28,14 @@ jobs:
           base: repositories
           plugin_lines: yes
 
-      - name: Followup-languages
+      - name: Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: followup-languages.svg
+          filename: languages.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
           base: ""
-          plugin_followup: yes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage, line
