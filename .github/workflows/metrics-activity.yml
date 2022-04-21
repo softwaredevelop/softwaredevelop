@@ -1,0 +1,23 @@
+---
+name: Metrics Activity
+
+on:
+  schedule: [{ cron: "0 */4 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+jobs:
+  metrics_activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_timestamps: yes
