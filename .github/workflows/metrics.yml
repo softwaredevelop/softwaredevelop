@@ -30,18 +30,6 @@ jobs:
           base: repositories
           plugin_lines: yes
 
-      - name: Follow-up
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: followup.svg
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: ${{ secrets.TIMEZONE }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-
       - name: Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
