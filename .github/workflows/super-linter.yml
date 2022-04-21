@@ -5,9 +5,13 @@ on:
   push:
     branches:
       - "main"
+    paths-ignore:
+      - "**.svg"
   pull_request:
     branches:
       - "main"
+    paths-ignore:
+      - "**.svg"
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
@@ -41,4 +45,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_EDITORCONFIG: true
           VALIDATE_GITHUB_ACTIONS: true
+          VALIDATE_MARKDOWN: true
           VALIDATE_YAML: true
