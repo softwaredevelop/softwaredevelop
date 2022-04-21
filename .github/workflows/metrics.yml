@@ -30,6 +30,18 @@ jobs:
           base: repositories
           plugin_lines: yes
 
+      - name: Follow-up
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: followup.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
       - name: Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -41,3 +53,29 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage, line
+
+      - name: Topics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 20
+
+      - name: GitHub Skyline
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: yes
