@@ -1,5 +1,5 @@
 ---
-name: Metrics Activity
+name: Metrics Activity Follow-up
 
 on:
   schedule: [{ cron: "0 */4 * * *" }]
@@ -9,6 +9,18 @@ jobs:
   metrics_activity:
     runs-on: ubuntu-latest
     steps:
+      - name: Follow-up
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: followup.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
       - name: Activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
