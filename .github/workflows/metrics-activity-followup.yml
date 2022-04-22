@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push: { branches: ["master", "main"] }
 jobs:
-  metrics_activity:
+  follow-up:
     runs-on: ubuntu-latest
     steps:
       - name: Follow-up
@@ -21,6 +21,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
 
+  activity:
+    runs-on: ubuntu-latest
+    steps:
       - name: Activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
