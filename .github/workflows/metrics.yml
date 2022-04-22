@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Header
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: header.svg
@@ -23,7 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Lines
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: lines.svg
@@ -37,7 +35,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Languages
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
@@ -52,7 +49,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Topics
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: topics.svg
@@ -67,7 +63,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Skyline
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: skyline.svg
