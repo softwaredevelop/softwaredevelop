@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="459" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="476" class="">
     <defs>
         <style/>
     </defs>
@@ -22,18 +22,22 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">softwaredevelop/page-hugo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#25f706a</div>
-                                        <div class="message">feat: Add default.md</div>
+                                        <div class="sha">#e6d3c18</div>
+                                        <div class="message">feat: Add submodule</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6b6a14</div>
+                                        <div class="message">Remove submodules</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:11:41</div>
+                                <div class="timestamp">11 Jun 2022, 18:09:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +54,7 @@
                                         <span class="repo">softwaredevelop/page-hugo</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:11:41</div>
+                                <div class="timestamp">11 Jun 2022, 18:09:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +65,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 feat: Add default.md</span>
+                                        <span class="issue">#16 feat: Add submodule</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/page-hugo</span></div>
-                                    <div>1 file changed <span class="code">++6 --0</span></div>
+                                    <div>6 files changed <span class="code">++2 --17</span></div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:11:40</div>
+                                <div class="timestamp">11 Jun 2022, 18:09:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 feat: Add default.md</span>
+                                        <span class="issue">#16 feat: Add submodule</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/page-hugo</span></div>
-                                    <div>1 file changed <span class="code">++6 --0</span></div>
+                                    <div>6 files changed <span class="code">++2 --17</span></div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:09:54</div>
+                                <div class="timestamp">11 Jun 2022, 18:07:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +107,7 @@
                                         <span class="repo">softwaredevelop/page-hugo</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:09:53</div>
+                                <div class="timestamp">11 Jun 2022, 18:07:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +124,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#34c1a43</div>
-                                        <div class="message">feat: Add baseURL</div>
+                                        <div class="sha">#9bc3c97</div>
+                                        <div class="message">test: Add submodule</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jun 2022, 14:04:27</div>
+                                <div class="timestamp">11 Jun 2022, 16:49:21</div>
                             </section>
                         </div>
                     </section>
