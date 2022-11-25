@@ -1,0 +1,51 @@
+---
+name: Metrics Activity Follow-up
+
+on:
+  schedule: [{ cron: "0 */4 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  skip-duplicate-actions:
+    name: Skip Duplicate Actions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: fkirc/skip-duplicate-actions@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          cancel_others: true
+          concurrent_skipping: never
+
+  follow-up:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          filename: followup.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_timestamps: yes

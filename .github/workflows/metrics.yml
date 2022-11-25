@@ -1,0 +1,91 @@
+---
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * 0,2,4" }]
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  skip-duplicate-actions:
+    name: Skip Duplicate Actions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: fkirc/skip-duplicate-actions@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          cancel_others: true
+          concurrent_skipping: never
+
+  header:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Header
+        uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: header
+
+  lines:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lines
+        uses: lowlighter/metrics@latest
+        with:
+          filename: lines.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: repositories
+          plugin_lines: yes
+
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage, line
+
+  topics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 20
+
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.TIMEZONE }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: yes
