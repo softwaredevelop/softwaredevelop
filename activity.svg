@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/test</span>
+                                        <span class="code">request/ci</span>
                                         in
                                         <span class="repo">softwaredevelop/prj5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 12:04:26</div>
+                                <div class="timestamp">17 May 2023, 18:55:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21ba7f8</div>
-                                        <div class="message">test: Add integration tests</div>
+                                        <div class="sha">#672be79</div>
+                                        <div class="message">ci: Update cc job</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 12:04:26</div>
+                                <div class="timestamp">17 May 2023, 18:55:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#15 test: Add integration tests</span>
+                                        <span class="issue">#17 ci: Update cc job</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/prj5</span></div>
-                                    <div>6 files changed <span class="code">++481 --2</span></div>
+                                    <div>1 file changed <span class="code">++4 --6</span></div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 12:04:25</div>
+                                <div class="timestamp">17 May 2023, 18:55:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#15 test: Add integration tests</span>
+                                        <span class="issue">#17 ci: Update cc job</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/prj5</span></div>
-                                    <div>6 files changed <span class="code">++481 --2</span></div>
+                                    <div>1 file changed <span class="code">++4 --6</span></div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 11:56:50</div>
+                                <div class="timestamp">17 May 2023, 18:52:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/test</span>
+                                        <span class="code">request/ci</span>
                                         in
                                         <span class="repo">softwaredevelop/prj5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 11:56:50</div>
+                                <div class="timestamp">17 May 2023, 18:52:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -115,12 +115,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/ci</span>
                                         in
                                         <span class="repo">softwaredevelop/prj5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2023, 11:23:19</div>
+                                <div class="timestamp">17 May 2023, 18:45:54</div>
                             </section>
                         </div>
                     </section>
