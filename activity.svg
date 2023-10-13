@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/github_actions/docker/login-action-3</span>
+                                        <span class="code">dependabot/go_modules/app/github.com/gin-gonic/gin-1.9.1</span>
                                         in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/prj5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:08:12</div>
+                                <div class="timestamp">13 Oct 2023, 17:19:23</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,30 +40,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/prj5</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7669ef5</div>
-                                        <div class="message">chore(deps): bump docker/login-action from 2 to 3
+                                        <div class="sha">#d594ddb</div>
+                                        <div class="message">chore(deps): Bump github.com/gin-gonic/gin from 1.9.0 to 1.9.1 in /app
 
-Bumps [docker/login-action](https://github.com/docker/login-action) from 2 to 3.
-- [Release notes](https://github.com/docker/login-action/releases)
-- [Commits](https://github.com/docker/login-action/compare/v2...v3)
+Bumps [github.com/gin-gonic/gin](https://github.com/gin-gonic/gin) from 1.9.0 to 1.9.1.
+- [Release notes](https://github.com/gin-gonic/gin/releases)
+- [Changelog](https://github.com/gin-gonic/gin/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/gin-gonic/gin/compare/v1.9.0...v1.9.1)
 
 ---
 updated-dependencies:
-- dependency-name: docker/login-action
+- dependency-name: github.com/gin-gonic/gin
   dependency-type: direct:production
-  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:08:12</div>
+                                <div class="timestamp">13 Oct 2023, 17:19:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -75,12 +75,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/github_actions/docker/setup-buildx-action-3</span>
+                                        <span class="code">dependabot/go_modules/iac/golang.org/x/net-0.17.0</span>
                                         in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/pulumi-gh</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:06:42</div>
+                                <div class="timestamp">13 Oct 2023, 16:48:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -91,30 +91,28 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/pulumi-gh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b4752c5</div>
-                                        <div class="message">chore(deps): bump docker/setup-buildx-action from 2 to 3
+                                        <div class="sha">#ca64fea</div>
+                                        <div class="message">chore(deps): Bump golang.org/x/net from 0.7.0 to 0.17.0 in /iac
 
-Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2 to 3.
-- [Release notes](https://github.com/docker/setup-buildx-action/releases)
-- [Commits](https://github.com/docker/setup-buildx-action/compare/v2...v3)
+Bumps [golang.org/x/net](https://github.com/golang/net) from 0.7.0 to 0.17.0.
+- [Commits](https://github.com/golang/net/compare/v0.7.0...v0.17.0)
 
 ---
 updated-dependencies:
-- dependency-name: docker/setup-buildx-action
-  dependency-type: direct:production
-  update-type: version-update:semver-major
+- dependency-name: golang.org/x/net
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:06:42</div>
+                                <div class="timestamp">13 Oct 2023, 16:47:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -126,12 +124,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/github_actions/docker/build-push-action-5</span>
+                                        <span class="code">dependabot/go_modules/golang.org/x/net-0.17.0</span>
                                         in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/pulumi-gh</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:00:11</div>
+                                <div class="timestamp">13 Oct 2023, 16:46:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -142,30 +140,28 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/container-hello-world</span>
+                                        <span class="repo">softwaredevelop/pulumi-gh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e10c2c</div>
-                                        <div class="message">chore(deps): bump docker/build-push-action from 4 to 5
+                                        <div class="sha">#0809bf7</div>
+                                        <div class="message">chore(deps): Bump golang.org/x/net from 0.7.0 to 0.17.0
 
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 4 to 5.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v4...v5)
+Bumps [golang.org/x/net](https://github.com/golang/net) from 0.7.0 to 0.17.0.
+- [Commits](https://github.com/golang/net/compare/v0.7.0...v0.17.0)
 
 ---
 updated-dependencies:
-- dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-major
+- dependency-name: golang.org/x/net
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Oct 2023, 14:00:10</div>
+                                <div class="timestamp">13 Oct 2023, 16:46:19</div>
                             </section>
                         </div>
                     </section>
