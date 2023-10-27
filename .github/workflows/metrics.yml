@@ -74,18 +74,16 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 20
 
-  skyline:
+  calendar:
     runs-on: ubuntu-latest
     steps:
-      - name: GitHub Skyline
+      - name: Full history calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: skyline.svg
-          token: NOT_NEEDED
+          filename: calendar_full.svg
+          token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.TIMEZONE }}
           base: ""
-          plugin_skyline: yes
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
-          plugin_skyline_compatibility: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 3
