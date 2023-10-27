@@ -7,4 +7,5 @@
 [<img align="center" src="/topics.svg" alt="Topics" width="49%"/>](/topics.svg)
 
 [<img align="center" src="/activity.svg" alt="Activity" width="49%"/>](/activity.svg)
-[<img align="center" src="/skyline.svg" alt="GitHub-Skyline" width="49%"/>](/skyline.svg)
+[<img align="center" src="/calendar_full.svg" alt="Calendar" width="49%"/>](/calendar_full.svg)
+
