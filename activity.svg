@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c333a3</div>
-                                        <div class="message">feat: Added new chart files for Tickmill ETFs</div>
+                                        <div class="sha">#a524b8a</div>
+                                        <div class="message">feat: Add new chart files for StockFintech</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 17:02:41</div>
+                                <div class="timestamp">18 Feb 2024, 19:45:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +50,7 @@
                                         <span class="repo">softwaredevelop/metatrader5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 17:02:41</div>
+                                <div class="timestamp">18 Feb 2024, 19:45:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#56 feat: Added new chart files for Tickmill ETFs</span>
+                                        <span class="issue">#74 feat: Add new chart files for StockFintech</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader5</span></div>
-                                    <div>24 files changed <span class="code">++1978 --0</span></div>
+                                    <div>12 files changed <span class="code">++946 --0</span></div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 17:02:40</div>
+                                <div class="timestamp">18 Feb 2024, 19:45:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#56 feat: Added new chart files for Tickmill ETFs</span>
+                                        <span class="issue">#74 feat: Add new chart files for StockFintech</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader5</span></div>
-                                    <div>24 files changed <span class="code">++1978 --0</span></div>
+                                    <div>12 files changed <span class="code">++946 --0</span></div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 17:00:02</div>
+                                <div class="timestamp">18 Feb 2024, 19:42:50</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/metatrader5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 16:59:57</div>
+                                <div class="timestamp">18 Feb 2024, 19:42:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa61df2</div>
-                                        <div class="message">feat: Add cryptocurrency charts</div>
+                                        <div class="sha">#ba98a03</div>
+                                        <div class="message">feat: Add new chart files for StockBigTech</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Feb 2024, 16:50:54</div>
+                                <div class="timestamp">18 Feb 2024, 19:35:37</div>
                             </section>
                         </div>
                     </section>
