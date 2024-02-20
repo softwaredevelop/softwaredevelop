@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a60ef89</div>
-                                        <div class="message">feat: Add new chart files for FXOpen FxExoticUSD</div>
+                                        <div class="sha">#67e6dc7</div>
+                                        <div class="message">feat: Add new forex symbol sets</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:21:21</div>
+                                <div class="timestamp">19 Feb 2024, 22:50:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +50,7 @@
                                         <span class="repo">softwaredevelop/metatrader5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:21:21</div>
+                                <div class="timestamp">19 Feb 2024, 22:50:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#100 feat: Add new chart files for FXOpen FxExoticUSD</span>
+                                        <span class="issue">#101 feat: Add new forex symbol sets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader5</span></div>
-                                    <div>11 files changed <span class="code">++860 --0</span></div>
+                                    <div>12 files changed <span class="code">++83 --0</span></div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:21:20</div>
+                                <div class="timestamp">19 Feb 2024, 22:50:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#100 feat: Add new chart files for FXOpen FxExoticUSD</span>
+                                        <span class="issue">#101 feat: Add new forex symbol sets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader5</span></div>
-                                    <div>11 files changed <span class="code">++860 --0</span></div>
+                                    <div>12 files changed <span class="code">++83 --0</span></div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:18:16</div>
+                                <div class="timestamp">19 Feb 2024, 22:47:17</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/metatrader5</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:18:12</div>
+                                <div class="timestamp">19 Feb 2024, 22:47:11</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#047e5df</div>
-                                        <div class="message">feat: Add chart for FxExoticNZD</div>
+                                        <div class="sha">#a60ef89</div>
+                                        <div class="message">feat: Add new chart files for FXOpen FxExoticUSD</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Feb 2024, 15:14:10</div>
+                                <div class="timestamp">19 Feb 2024, 15:21:21</div>
                             </section>
                         </div>
                     </section>
