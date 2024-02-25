@@ -1,5 +1,7 @@
 ---
-name: Metrics Activity Follow-up
+name: metrics-activity-follow-up
+
+run-name: Metrics Activity Follow-up
 
 on:
   schedule: [{ cron: "0 */4 * * *" }]

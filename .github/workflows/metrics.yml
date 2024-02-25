@@ -1,5 +1,7 @@
 ---
-name: Metrics
+name: metrics
+
+run-name: Metrics
 
 on:
   schedule: [{ cron: "0 0 * * 0,2,4" }]
