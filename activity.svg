@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1cbdc99</div>
-                                        <div class="message">ci: Add Go formatting and linting scripts</div>
+                                        <div class="sha">#3931e8f</div>
+                                        <div class="message">test: Add linting and formatting tests</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Mar 2024, 19:34:51</div>
+                                <div class="timestamp">8 Mar 2024, 23:27:40</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -45,12 +45,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/ci</span>
+                                        <span class="code">request/test</span>
                                         in
                                         <span class="repo">softwaredevelop/codespace-default</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Mar 2024, 19:34:51</div>
+                                <div class="timestamp">8 Mar 2024, 23:27:39</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#57 ci: Add Go formatting and linting scripts</span>
+                                        <span class="issue">#58 test: Add linting and formatting tests</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/codespace-default</span></div>
-                                    <div>11 files changed <span class="code">++604 --0</span></div>
+                                    <div>9 files changed <span class="code">++890 --0</span></div>
                                 </div>
-                                <div class="timestamp">6 Mar 2024, 19:34:50</div>
+                                <div class="timestamp">8 Mar 2024, 23:27:39</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#57 ci: Add Go formatting and linting scripts</span>
+                                        <span class="issue">#58 test: Add linting and formatting tests</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/codespace-default</span></div>
-                                    <div>11 files changed <span class="code">++604 --0</span></div>
+                                    <div>9 files changed <span class="code">++890 --0</span></div>
                                 </div>
-                                <div class="timestamp">6 Mar 2024, 19:31:37</div>
+                                <div class="timestamp">8 Mar 2024, 23:03:52</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/ci</span>
+                                        <span class="code">request/test</span>
                                         in
                                         <span class="repo">softwaredevelop/codespace-default</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Mar 2024, 19:31:34</div>
+                                <div class="timestamp">8 Mar 2024, 23:03:42</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -114,17 +114,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/codespace-default</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d06343</div>
-                                        <div class="message">test: Remove empty line in main_test.go</div>
+                                        <div class="sha">#1cbdc99</div>
+                                        <div class="message">ci: Add Go formatting and linting scripts</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Mar 2024, 12:12:32</div>
+                                <div class="timestamp">6 Mar 2024, 19:34:51</div>
                             </section>
                         </div>
                     </section>
