@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#df0d569</div>
-                                        <div class="message">feat: Add Powershell Core DSC 2.0 config files</div>
+                                        <div class="sha">#224292d</div>
+                                        <div class="message">chore: Update go.mod files and run go mod tidy and go get -u ./...</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:46:41</div>
+                                <div class="timestamp">17 May 2024, 18:01:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -45,12 +45,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/chore</span>
                                         in
                                         <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:46:40</div>
+                                <div class="timestamp">17 May 2024, 18:01:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#29 feat: Add Powershell Core DSC 2.0 config files</span>
+                                        <span class="issue">#31 chore: Update go.mod files and run go mod tidy and go get -u ./...</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/desired-state</span></div>
-                                    <div>5 files changed <span class="code">++743 --0</span></div>
+                                    <div>1 file changed <span class="code">++26 --6</span></div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:46:40</div>
+                                <div class="timestamp">17 May 2024, 18:01:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#29 feat: Add Powershell Core DSC 2.0 config files</span>
+                                        <span class="issue">#31 chore: Update go.mod files and run go mod tidy and go get -u ./...</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/desired-state</span></div>
-                                    <div>5 files changed <span class="code">++743 --0</span></div>
+                                    <div>1 file changed <span class="code">++26 --6</span></div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:44:50</div>
+                                <div class="timestamp">17 May 2024, 17:58:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/chore</span>
                                         in
                                         <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:44:48</div>
+                                <div class="timestamp">17 May 2024, 17:58:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#13daeb7</div>
-                                        <div class="message">chore: Update gqlparser/v2 dependency to v2.5.12 in go.mod files</div>
+                                        <div class="sha">#675483e</div>
+                                        <div class="message">chore: Update go.mod files and run go mod tidy and go get -u ./...</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 May 2024, 11:39:42</div>
+                                <div class="timestamp">17 May 2024, 16:47:50</div>
                             </section>
                         </div>
                     </section>
