@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e4f2470</div>
-                                        <div class="message">feat: Add Install_WinGet_Packages_Script_7_b.ps1 script</div>
+                                        <div class="sha">#abe201b</div>
+                                        <div class="message">feat: Add Microsoft.WindowsTerminal to the list of packageNames in Install_WinGet_Packages_Script_7_b.ps1</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 May 2024, 00:58:13</div>
+                                <div class="timestamp">21 May 2024, 08:15:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +50,7 @@
                                         <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 May 2024, 00:58:13</div>
+                                <div class="timestamp">21 May 2024, 08:15:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#52 feat: Add Install_WinGet_Packages_Script_7_b.ps1 script</span>
+                                        <span class="issue">#53 feat: Add Microsoft.WindowsTerminal to the list of packageNames in Install_WinGet_Packages_Script_7_b.ps1</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/desired-state</span></div>
-                                    <div>3 files changed <span class="code">++386 --0</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
-                                <div class="timestamp">21 May 2024, 00:58:12</div>
+                                <div class="timestamp">21 May 2024, 08:15:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#52 feat: Add Install_WinGet_Packages_Script_7_b.ps1 script</span>
+                                        <span class="issue">#53 feat: Add Microsoft.WindowsTerminal to the list of packageNames in Install_WinGet_Packages_Script_7_b.ps1</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/desired-state</span></div>
-                                    <div>3 files changed <span class="code">++386 --0</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
-                                <div class="timestamp">21 May 2024, 00:55:20</div>
+                                <div class="timestamp">21 May 2024, 08:12:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 May 2024, 00:55:18</div>
+                                <div class="timestamp">21 May 2024, 08:12:23</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4339d9f</div>
-                                        <div class="message">feat: Add sandbox config and update .editorconfig to include indent size for *.wsb files</div>
+                                        <div class="sha">#e4f2470</div>
+                                        <div class="message">feat: Add Install_WinGet_Packages_Script_7_b.ps1 script</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 May 2024, 19:31:37</div>
+                                <div class="timestamp">21 May 2024, 00:58:13</div>
                             </section>
                         </div>
                     </section>
