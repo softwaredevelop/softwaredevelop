@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1dee416</div>
-                                        <div class="message">feat: Add new MQL4 symbol sets for minor forex pairs and indices</div>
+                                        <div class="sha">#835c407</div>
+                                        <div class="message">feat: Add new MQL5 indicator sets</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 10:09:32</div>
+                                <div class="timestamp">3 Jun 2024, 18:44:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +50,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 10:09:32</div>
+                                <div class="timestamp">3 Jun 2024, 18:44:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#156 feat: Add new MQL4 symbol sets for minor forex pairs and indices</span>
+                                        <span class="issue">#157 feat: Add new MQL5 indicator sets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>80 files changed <span class="code">++3062 --0</span></div>
+                                    <div>2 files changed <span class="code">++70 --0</span></div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 10:09:31</div>
+                                <div class="timestamp">3 Jun 2024, 18:44:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#156 feat: Add new MQL4 symbol sets for minor forex pairs and indices</span>
+                                        <span class="issue">#157 feat: Add new MQL5 indicator sets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>80 files changed <span class="code">++3062 --0</span></div>
+                                    <div>2 files changed <span class="code">++70 --0</span></div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 10:06:44</div>
+                                <div class="timestamp">3 Jun 2024, 18:39:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 10:06:30</div>
+                                <div class="timestamp">3 Jun 2024, 18:39:40</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ada618c</div>
-                                        <div class="message">chore: Update MQL4 indentation settings</div>
+                                        <div class="sha">#1dee416</div>
+                                        <div class="message">feat: Add new MQL4 symbol sets for minor forex pairs and indices</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 May 2024, 09:45:45</div>
+                                <div class="timestamp">28 May 2024, 10:09:32</div>
                             </section>
                         </div>
                     </section>
