@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/refactor</span>
                                         in
                                         <span class="repo">softwaredevelop/trading212</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jul 2024, 09:51:28</div>
+                                <div class="timestamp">8 Jul 2024, 11:27:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e58fb0</div>
-                                        <div class="message">feat: Add script to create trading pie</div>
+                                        <div class="sha">#3e55589</div>
+                                        <div class="message">refactor: Rename instruments_ticker_isin.sh &amp; instruments_tickers_isins.sh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jul 2024, 09:51:27</div>
+                                <div class="timestamp">8 Jul 2024, 11:27:17</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 feat: Add script to create trading pie</span>
+                                        <span class="issue">#11 refactor: Rename instruments_ticker_isin.sh &amp; instruments_tickers_isins.sh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/trading212</span></div>
-                                    <div>1 file changed <span class="code">++22 --0</span></div>
+                                    <div>2 files changed <span class="code">++0 --0</span></div>
                                 </div>
-                                <div class="timestamp">8 Jul 2024, 09:51:27</div>
+                                <div class="timestamp">8 Jul 2024, 11:27:17</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 feat: Add script to create trading pie</span>
+                                        <span class="issue">#11 refactor: Rename instruments_ticker_isin.sh &amp; instruments_tickers_isins.sh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/trading212</span></div>
-                                    <div>1 file changed <span class="code">++22 --0</span></div>
+                                    <div>2 files changed <span class="code">++0 --0</span></div>
                                 </div>
-                                <div class="timestamp">8 Jul 2024, 09:50:50</div>
+                                <div class="timestamp">8 Jul 2024, 11:26:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/refactor</span>
                                         in
                                         <span class="repo">softwaredevelop/trading212</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Jul 2024, 09:50:47</div>
+                                <div class="timestamp">8 Jul 2024, 11:26:23</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,7 +120,7 @@
                                         <span class="repo">softwaredevelop/trading212</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Jul 2024, 22:35:00</div>
+                                <div class="timestamp">8 Jul 2024, 10:25:04</div>
                             </section>
                         </div>
                     </section>
