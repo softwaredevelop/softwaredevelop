@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/iac</span>
+                                        <span class="code">request/chore</span>
                                         in
-                                        <span class="repo">softwaredevelop/figaro</span>
+                                        <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:49:28</div>
+                                <div class="timestamp">31 Aug 2024, 20:30:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,17 +40,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/figaro</span>
+                                        <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b778d39</div>
-                                        <div class="message">iac: Add Pulumi configuration files for local projects</div>
+                                        <div class="sha">#9cfb92c</div>
+                                        <div class="message">chore: Update dependencies for gqlparser and sys packages</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:49:28</div>
+                                <div class="timestamp">31 Aug 2024, 20:30:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 iac: Add Pulumi configuration files for local projects</span>
+                                        <span class="issue">#171 chore: Update dependencies for gqlparser and sys packages</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/figaro</span></div>
-                                    <div>12 files changed <span class="code">++1649 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
+                                    <div>4 files changed <span class="code">++166 --208</span></div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:49:27</div>
+                                <div class="timestamp">31 Aug 2024, 20:30:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 iac: Add Pulumi configuration files for local projects</span>
+                                        <span class="issue">#171 chore: Update dependencies for gqlparser and sys packages</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/figaro</span></div>
-                                    <div>12 files changed <span class="code">++1649 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
+                                    <div>4 files changed <span class="code">++166 --208</span></div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:47:43</div>
+                                <div class="timestamp">31 Aug 2024, 20:29:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/iac</span>
+                                        <span class="code">request/chore</span>
                                         in
-                                        <span class="repo">softwaredevelop/figaro</span>
+                                        <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:47:41</div>
+                                <div class="timestamp">31 Aug 2024, 20:28:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -115,12 +115,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/ci</span>
+                                        <span class="code">request/refactor</span>
                                         in
-                                        <span class="repo">softwaredevelop/figaro</span>
+                                        <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 11:42:41</div>
+                                <div class="timestamp">31 Aug 2024, 20:22:34</div>
                             </section>
                         </div>
                     </section>
