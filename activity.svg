@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/ci</span>
                                         in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:30:27</div>
+                                <div class="timestamp">1 Sept 2024, 22:55:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,17 +40,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cfb92c</div>
-                                        <div class="message">chore: Update dependencies for gqlparser and sys packages</div>
+                                        <div class="sha">#f58c638</div>
+                                        <div class="message">ci: Remove unused linting_test package and related code</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:30:26</div>
+                                <div class="timestamp">1 Sept 2024, 22:55:45</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#171 chore: Update dependencies for gqlparser and sys packages</span>
+                                        <span class="issue">#66 ci: Remove unused linting_test package and related code</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>4 files changed <span class="code">++166 --208</span></div>
+                                    <div> in <span class="repo">softwaredevelop/desired-state</span></div>
+                                    <div>23 files changed <span class="code">++0 --1850</span></div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:30:26</div>
+                                <div class="timestamp">1 Sept 2024, 22:55:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#171 chore: Update dependencies for gqlparser and sys packages</span>
+                                        <span class="issue">#66 ci: Remove unused linting_test package and related code</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>4 files changed <span class="code">++166 --208</span></div>
+                                    <div> in <span class="repo">softwaredevelop/desired-state</span></div>
+                                    <div>23 files changed <span class="code">++0 --1850</span></div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:29:01</div>
+                                <div class="timestamp">1 Sept 2024, 22:53:41</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/ci</span>
                                         in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:28:59</div>
+                                <div class="timestamp">1 Sept 2024, 22:53:39</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -117,10 +117,10 @@
                       branch
                                         <span class="code">request/refactor</span>
                                         in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/desired-state</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Aug 2024, 20:22:34</div>
+                                <div class="timestamp">1 Sept 2024, 22:49:52</div>
                             </section>
                         </div>
                     </section>
