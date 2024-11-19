@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44d6bef</div>
-                                        <div class="message">Remove super-linter.yml from version control</div>
+                                        <div class="sha">#356dd07</div>
+                                        <div class="message">ci: Add workflow files</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 21:57:02</div>
+                                <div class="timestamp">19 Nov 2024, 01:01:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -45,33 +45,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/test</span>
+                                        <span class="code">request/ci</span>
                                         in
-                                        <span class="repo">softwaredevelop/daggerverse</span>
+                                        <span class="repo">softwaredevelop/ssh-keygen-scripts</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 18:41:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/daggerverse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4781a7a</div>
-                                        <div class="message">test: Add example.pynb</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Nov 2024, 18:41:32</div>
+                                <div class="timestamp">19 Nov 2024, 01:01:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -82,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#93 test: Add example.pynb</span>
+                                        <span class="issue">#17 ci: Add workflow files</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/daggerverse</span></div>
-                                    <div>1 file changed <span class="code">++26 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/ssh-keygen-scripts</span></div>
+                                    <div>3 files changed <span class="code">++129 --0</span></div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 18:41:31</div>
+                                <div class="timestamp">19 Nov 2024, 01:01:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -100,14 +79,35 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#93 test: Add example.pynb</span>
+                                        <span class="issue">#17 ci: Add workflow files</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/daggerverse</span></div>
-                                    <div>1 file changed <span class="code">++26 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/ssh-keygen-scripts</span></div>
+                                    <div>3 files changed <span class="code">++129 --0</span></div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 18:39:19</div>
+                                <div class="timestamp">19 Nov 2024, 00:59:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">softwaredevelop/ssh-keygen-scripts</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">request/ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#71d56a7</div>
+                                        <div class="message">ci: Add workflow files</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Nov 2024, 00:59:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -119,12 +119,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/test</span>
+                                        <span class="code">request/ci</span>
                                         in
-                                        <span class="repo">softwaredevelop/daggerverse</span>
+                                        <span class="repo">softwaredevelop/ssh-keygen-scripts</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">18 Nov 2024, 18:39:15</div>
+                                <div class="timestamp">19 Nov 2024, 00:58:47</div>
                             </section>
                         </div>
                     </section>
