@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#60 feat: Add instrument_list.ipynb</span>
+                                        <span class="issue">#69 feat: Add fetch_a_pie.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/trading212</span></div>
-                                    <div>1 file changed <span class="code">++65 --0</span></div>
+                                    <div>1 file changed <span class="code">++49 --0</span></div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 09:04:36</div>
+                                <div class="timestamp">25 Nov 2024, 12:25:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -47,7 +47,7 @@
                                         <span class="repo">softwaredevelop/trading212</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 09:04:33</div>
+                                <div class="timestamp">25 Nov 2024, 12:25:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -59,12 +59,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/ci</span>
+                                        <span class="code">request/feat</span>
                                         in
                                         <span class="repo">softwaredevelop/trading212</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 09:00:13</div>
+                                <div class="timestamp">25 Nov 2024, 12:13:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -81,11 +81,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7956ec9</div>
-                                        <div class="message">ci: Update ruff action</div>
+                                        <div class="sha">#4591bd9</div>
+                                        <div class="message">feat: Add historical_order_data.ipynb</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 09:00:12</div>
+                                <div class="timestamp">25 Nov 2024, 12:13:19</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -96,14 +96,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#59 ci: Update ruff action</span>
+                                        <span class="issue">#68 feat: Add historical_order_data.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/trading212</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>1 file changed <span class="code">++65 --0</span></div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 09:00:11</div>
+                                <div class="timestamp">25 Nov 2024, 12:13:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -114,14 +114,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#59 ci: Update ruff action</span>
+                                        <span class="issue">#68 feat: Add historical_order_data.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/trading212</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>1 file changed <span class="code">++65 --0</span></div>
                                 </div>
-                                <div class="timestamp">25 Nov 2024, 08:49:22</div>
+                                <div class="timestamp">25 Nov 2024, 12:10:12</div>
                             </section>
                         </div>
                     </section>
