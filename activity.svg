@@ -29,7 +29,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:27:32</div>
+                                <div class="timestamp">14 Jan 2025, 11:46:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#86d9877</div>
-                                        <div class="message">feat: Add RSIMA.mq5</div>
+                                        <div class="sha">#c8d6f41</div>
+                                        <div class="message">feat: Add ADXW.ex5</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:27:31</div>
+                                <div class="timestamp">14 Jan 2025, 11:45:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#183 feat: Add RSIMA.mq5</span>
+                                        <span class="issue">#193 feat: Add ADXW.ex5</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>1 file changed <span class="code">++138 --0</span></div>
+                                    <div>1 file changed <span class="code">++0 --0</span></div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:27:31</div>
+                                <div class="timestamp">14 Jan 2025, 11:45:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#183 feat: Add RSIMA.mq5</span>
+                                        <span class="issue">#193 feat: Add ADXW.ex5</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>1 file changed <span class="code">++138 --0</span></div>
+                                    <div>1 file changed <span class="code">++0 --0</span></div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:26:08</div>
+                                <div class="timestamp">14 Jan 2025, 11:44:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:26:06</div>
+                                <div class="timestamp">14 Jan 2025, 11:44:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,7 +120,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 01:16:51</div>
+                                <div class="timestamp">14 Jan 2025, 11:38:43</div>
                             </section>
                         </div>
                     </section>
