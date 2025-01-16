@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/refactor</span>
                                         in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/daggerverse</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 17:09:09</div>
+                                <div class="timestamp">15 Jan 2025, 16:45:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,17 +40,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/daggerverse</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9211ea1</div>
-                                        <div class="message">feat: Add tickmill.pivot.set</div>
+                                        <div class="sha">#75ab2fc</div>
+                                        <div class="message">refactor: Add v0.15.2 engine version</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 17:09:08</div>
+                                <div class="timestamp">15 Jan 2025, 16:45:45</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#202 feat: Add tickmill.pivot.set</span>
+                                        <span class="issue">#188 refactor: Add v0.15.2 engine version</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>1 file changed <span class="code">++35 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/daggerverse</span></div>
+                                    <div>54 files changed <span class="code">++177 --200</span></div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 17:09:07</div>
+                                <div class="timestamp">15 Jan 2025, 16:45:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#202 feat: Add tickmill.pivot.set</span>
+                                        <span class="issue">#188 refactor: Add v0.15.2 engine version</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/metatrader</span></div>
-                                    <div>1 file changed <span class="code">++35 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/daggerverse</span></div>
+                                    <div>54 files changed <span class="code">++177 --200</span></div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 16:46:17</div>
+                                <div class="timestamp">15 Jan 2025, 16:40:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/feat</span>
+                                        <span class="code">request/refactor</span>
                                         in
-                                        <span class="repo">softwaredevelop/metatrader</span>
+                                        <span class="repo">softwaredevelop/daggerverse</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 16:46:14</div>
+                                <div class="timestamp">15 Jan 2025, 16:40:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,7 +120,7 @@
                                         <span class="repo">softwaredevelop/metatrader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Jan 2025, 16:41:53</div>
+                                <div class="timestamp">14 Jan 2025, 17:09:09</div>
                             </section>
                         </div>
                     </section>
