@@ -26,10 +26,10 @@
                       branch
                                         <span class="code">request/chore</span>
                                         in
-                                        <span class="repo">softwaredevelop/py-mt5-trader</span>
+                                        <span class="repo">softwaredevelop/capitalcom</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:27:16</div>
+                                <div class="timestamp">8 Aug 2025, 16:08:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,17 +40,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">softwaredevelop/py-mt5-trader</span>
+                                        <span class="repo">softwaredevelop/capitalcom</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f20c4ac</div>
-                                        <div class="message">chore: add conda enviroment.yml</div>
+                                        <div class="sha">#d846a75</div>
+                                        <div class="message">chore: add conda environment.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:27:16</div>
+                                <div class="timestamp">8 Aug 2025, 16:08:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 chore: add conda enviroment.yml</span>
+                                        <span class="issue">#25 chore: add conda environment.yml</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++11 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/capitalcom</span></div>
+                                    <div>1 file changed <span class="code">++25 --0</span></div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:27:15</div>
+                                <div class="timestamp">8 Aug 2025, 16:08:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 chore: add conda enviroment.yml</span>
+                                        <span class="issue">#25 chore: add conda environment.yml</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++11 --0</span></div>
+                                    <div> in <span class="repo">softwaredevelop/capitalcom</span></div>
+                                    <div>1 file changed <span class="code">++25 --0</span></div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:26:02</div>
+                                <div class="timestamp">8 Aug 2025, 16:06:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -100,10 +100,10 @@
                       branch
                                         <span class="code">request/chore</span>
                                         in
-                                        <span class="repo">softwaredevelop/py-mt5-trader</span>
+                                        <span class="repo">softwaredevelop/capitalcom</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:25:59</div>
+                                <div class="timestamp">8 Aug 2025, 16:06:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -115,12 +115,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/ci</span>
                                         in
-                                        <span class="repo">softwaredevelop/py-mt5-trader</span>
+                                        <span class="repo">softwaredevelop/capitalcom</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 15:23:54</div>
+                                <div class="timestamp">8 Aug 2025, 16:04:26</div>
                             </section>
                         </div>
                     </section>
