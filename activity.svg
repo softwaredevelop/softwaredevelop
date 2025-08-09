@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/feat</span>
                                         in
                                         <span class="repo">softwaredevelop/py-mt5-trader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Aug 2025, 12:48:53</div>
+                                <div class="timestamp">9 Aug 2025, 21:42:49</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccdf649</div>
-                                        <div class="message">chore: code workspace settings</div>
+                                        <div class="sha">#cdb4cf5</div>
+                                        <div class="message">feat: add setup_connection_test.ipynb</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Aug 2025, 12:48:52</div>
+                                <div class="timestamp">9 Aug 2025, 21:42:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 chore: code workspace settings</span>
+                                        <span class="issue">#8 feat: add setup_connection_test.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++7 --0</span></div>
+                                    <div>4 files changed <span class="code">++238 --0</span></div>
                                 </div>
-                                <div class="timestamp">9 Aug 2025, 12:48:51</div>
+                                <div class="timestamp">9 Aug 2025, 21:42:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 chore: code workspace settings</span>
+                                        <span class="issue">#8 feat: add setup_connection_test.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++7 --0</span></div>
+                                    <div>4 files changed <span class="code">++238 --0</span></div>
                                 </div>
-                                <div class="timestamp">9 Aug 2025, 12:47:44</div>
+                                <div class="timestamp">9 Aug 2025, 21:40:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/feat</span>
                                         in
                                         <span class="repo">softwaredevelop/py-mt5-trader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Aug 2025, 12:47:41</div>
+                                <div class="timestamp">9 Aug 2025, 21:40:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -117,10 +117,10 @@
                       branch
                                         <span class="code">request/chore</span>
                                         in
-                                        <span class="repo">softwaredevelop/capitalcom</span>
+                                        <span class="repo">softwaredevelop/py-mt5-trader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Aug 2025, 16:08:07</div>
+                                <div class="timestamp">9 Aug 2025, 12:48:53</div>
                             </section>
                         </div>
                     </section>
