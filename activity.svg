@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b5551e1</div>
-                                        <div class="message">chore: ignore .conda directory</div>
+                                        <div class="sha">#b1d7369</div>
+                                        <div class="message">chore: nbformat, plotly</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:37:08</div>
+                                <div class="timestamp">12 Aug 2025, 08:28:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +50,7 @@
                                         <span class="repo">softwaredevelop/py-mt5-trader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:37:08</div>
+                                <div class="timestamp">12 Aug 2025, 08:28:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#12 chore: ignore .conda directory</span>
+                                        <span class="issue">#13 chore: nbformat, plotly</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++3 --0</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:37:07</div>
+                                <div class="timestamp">12 Aug 2025, 08:28:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#12 chore: ignore .conda directory</span>
+                                        <span class="issue">#13 chore: nbformat, plotly</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/py-mt5-trader</span></div>
-                                    <div>1 file changed <span class="code">++3 --0</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:35:49</div>
+                                <div class="timestamp">12 Aug 2025, 08:27:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/py-mt5-trader</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:35:47</div>
+                                <div class="timestamp">12 Aug 2025, 08:27:23</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,11 +120,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b6f6b1</div>
-                                        <div class="message">feat: explore_account_info.ipynb</div>
+                                        <div class="sha">#b5551e1</div>
+                                        <div class="message">chore: ignore .conda directory</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">10 Aug 2025, 15:28:01</div>
+                                <div class="timestamp">10 Aug 2025, 15:37:08</div>
                             </section>
                         </div>
                     </section>
