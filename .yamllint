@@ -1,0 +1,7 @@
+extends: default
+
+rules:
+  braces:
+    ignore: |
+      metrics.yml
+      metrics-activity-followup.yml
