@@ -24,12 +24,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/refactor</span>
                                         in
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:45:16</div>
+                                <div class="timestamp">12 Sept 2025, 08:43:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#315291b</div>
-                                        <div class="message">chore: add README.md</div>
+                                        <div class="sha">#eabaf86</div>
+                                        <div class="message">refactor: vectorbt environment</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:45:16</div>
+                                <div class="timestamp">12 Sept 2025, 08:43:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 chore: add README.md</span>
+                                        <span class="issue">#12 refactor: vectorbt environment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/strategy-optimizer</span></div>
-                                    <div>1 file changed <span class="code">++51 --0</span></div>
+                                    <div>2 files changed <span class="code">++2 --16</span></div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:45:15</div>
+                                <div class="timestamp">12 Sept 2025, 08:43:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#10 chore: add README.md</span>
+                                        <span class="issue">#12 refactor: vectorbt environment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/strategy-optimizer</span></div>
-                                    <div>1 file changed <span class="code">++51 --0</span></div>
+                                    <div>2 files changed <span class="code">++2 --16</span></div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:44:17</div>
+                                <div class="timestamp">12 Sept 2025, 08:41:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -98,12 +98,12 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">request/chore</span>
+                                        <span class="code">request/refactor</span>
                                         in
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:44:14</div>
+                                <div class="timestamp">12 Sept 2025, 08:41:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -115,12 +115,12 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">request/ci</span>
+                                        <span class="code">request/refactor</span>
                                         in
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Sept 2025, 22:41:31</div>
+                                <div class="timestamp">12 Sept 2025, 08:38:25</div>
                             </section>
                         </div>
                     </section>
