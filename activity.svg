@@ -29,7 +29,7 @@
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:18:36</div>
+                                <div class="timestamp">12 Sept 2025, 22:18:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,11 +46,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1eb948c</div>
-                                        <div class="message">feat: strat_backtestingpy_sma_showcase.ipynb</div>
+                                        <div class="sha">#939591e</div>
+                                        <div class="message">feat: optim_backtestingpy_sma_with_sl_tp.ipynb</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:18:36</div>
+                                <div class="timestamp">12 Sept 2025, 22:18:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,14 +61,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#18 feat: strat_backtestingpy_sma_showcase.ipynb</span>
+                                        <span class="issue">#19 feat: optim_backtestingpy_sma_with_sl_tp.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/strategy-optimizer</span></div>
-                                    <div>1 file changed <span class="code">++187 --0</span></div>
+                                    <div>1 file changed <span class="code">++152 --0</span></div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:18:35</div>
+                                <div class="timestamp">12 Sept 2025, 22:18:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,14 +79,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#18 feat: strat_backtestingpy_sma_showcase.ipynb</span>
+                                        <span class="issue">#19 feat: optim_backtestingpy_sma_with_sl_tp.ipynb</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">softwaredevelop/strategy-optimizer</span></div>
-                                    <div>1 file changed <span class="code">++187 --0</span></div>
+                                    <div>1 file changed <span class="code">++152 --0</span></div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:17:50</div>
+                                <div class="timestamp">12 Sept 2025, 22:16:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -103,7 +103,7 @@
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:17:48</div>
+                                <div class="timestamp">12 Sept 2025, 22:16:31</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,7 +120,7 @@
                                         <span class="repo">softwaredevelop/strategy-optimizer</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Sept 2025, 17:14:32</div>
+                                <div class="timestamp">12 Sept 2025, 17:18:36</div>
                             </section>
                         </div>
                     </section>
