@@ -24,8 +24,8 @@
                             <div class="label" title="Linux is an open source kernel.">linux</div>
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
-                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
+                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
@@ -36,7 +36,7 @@
                             <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
-                            <div class="label" title="Google, Azure, MySQL, Angular, Go, Code quality, Command-line interface, Django, GitHub API, Vue.js, PHP, TypeScript, Bash, JSON, ASP.NET, Raspberry Pi, Code review, Terminal, .NET, iOS, Rust, React Native, Kubernetes, R, Unity, Jupyter Notebook, Tensorflow, macOS, MATLAB, npm, Windows, MongoDB, PostgreSQL, Kotlin, Firebase, Ethereum, Spring Boot, Ansible, Swift, Flask, GraphQL, Laravel, Markdown, Continuous integration, scikit-learn, LaTeX, Sass, XML, Testing, ESLint, Gradle, Web Components, Pixel Art, Emacs, IPFS, Objective-C, Storybook, Xamarin, ReactiveUI, Ember, SpaceVim, Wagtail, MvvmCross, godot-engine">and 64 more...</div>
+                            <div class="label" title="Google, Azure, MySQL, Angular, Go, Code quality, Command-line interface, Django, GitHub API, Vue.js, PHP, TypeScript, Bash, JSON, ASP.NET, Raspberry Pi, Code review, Terminal, .NET, iOS, Rust, React Native, Kubernetes, R, Unity, Jupyter Notebook, Tensorflow, macOS, npm, MATLAB, Windows, MongoDB, PostgreSQL, Kotlin, Firebase, Ethereum, Spring Boot, Ansible, Swift, Flask, GraphQL, Laravel, Markdown, Continuous integration, scikit-learn, LaTeX, Sass, XML, Testing, ESLint, Gradle, Web Components, Pixel Art, Emacs, IPFS, Objective-C, Storybook, Xamarin, ReactiveUI, Ember, SpaceVim, Wagtail, MvvmCross, godot-engine">and 64 more...</div>
                         </div>
                     </section>
                 </div>
